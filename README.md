@@ -12,9 +12,9 @@ This tracking system consists of an Admin module. The Admin enters all the relev
 
 Once the upcoming station receives this data, it will automatically select the data associated with that station and display the same on the screen for the users to see. So, if the Admin at Miami Airport station enters information specific to a Tri Rail station, only the Tri Rail station system will display that information. The station managers at every station have unique login IDs using which they can update the train arrival time at their station.
 
-![Shape2](RackMultipart20230226-1-1rx9t0_html_237499165a11f2b9.gif)
-
-![](RackMultipart20230226-1-1rx9t0_html_e1b491116668b1b1.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221430453-9e8d82ba-1b24-44a7-864a-225eef46132b.png" height="80%" width="80%"/>
+<br />
 
 The Tracking Trainz application will allow users to login into the app with their own unique credentials which they have created themselves. The app will also have a system to let the passenger know if what they have entered is the correct login information. As well as having a system that lets them know when their credentials are incorrect, the application will display an error message if that is the case. Once the passenger's logged in they will have full access to use the application. The passenger will be able to view their account and book a train ticket to get to where they need to go.
 
