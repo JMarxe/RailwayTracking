@@ -1,8 +1,8 @@
+**Railway Tracking and Arrival Time Prediction System**
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/114123232/221430448-730ea7cb-0ff0-4169-ab5d-3e2287b7ca80.png" height="80%" width="80%"/>
 <br />
-
-**Railway Tracking and Arrival Time Prediction System**
 
 This project is a railway tracking system that allows users to obtain relevant information about train timing, whether it is on time or running late, what is the arrival time in a particular station, and so on. The system can track the time of departure of a train from a station and forward this information to the upcoming stations.
 
